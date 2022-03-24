@@ -1,0 +1,2 @@
+class OSError(Exception):
+  pass
